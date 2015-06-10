@@ -1,0 +1,3152 @@
+[
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "C02",
+    "dep_name": "文學院共同科目"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABAJ",
+    "dep_name": "資圖系數位碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABXB",
+    "dep_name": "資圖系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABXM",
+    "dep_name": "資圖系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACAM",
+    "dep_name": "中研所文學組"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACBM",
+    "dep_name": "中研所語言文化組"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXB",
+    "dep_name": "中文系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXD",
+    "dep_name": "中文系博士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXE",
+    "dep_name": "中文系（進學）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXJ",
+    "dep_name": "中文系碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXM",
+    "dep_name": "中文系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TADXM",
+    "dep_name": "語獻所碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXB",
+    "dep_name": "歷史系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXJ",
+    "dep_name": "歷史系碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXM",
+    "dep_name": "歷史系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAIXB",
+    "dep_name": "資傳系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAIXM",
+    "dep_name": "資傳系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAMXB",
+    "dep_name": "大傳系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAMXM",
+    "dep_name": "大傳系傳播碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "C03",
+    "dep_name": "理學院共同科目"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSBXB",
+    "dep_name": "理學院學士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCAM",
+    "dep_name": "化學所化學組"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCCB",
+    "dep_name": "化學系生化組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCCM",
+    "dep_name": "化學所生物組"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCDB",
+    "dep_name": "化學系材化組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCXD",
+    "dep_name": "化學系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMAB",
+    "dep_name": "數學系數學組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMCB",
+    "dep_name": "數學系資統組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXD",
+    "dep_name": "數學系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXJ",
+    "dep_name": "數學教學碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXM",
+    "dep_name": "數學系碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPBB",
+    "dep_name": "物理系應物組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPCB",
+    "dep_name": "物理系光電組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPXD",
+    "dep_name": "物理系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPXM",
+    "dep_name": "物理系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "C04",
+    "dep_name": "工學院共同科目"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEAXB",
+    "dep_name": "建築系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEAXM",
+    "dep_name": "建築系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBAB",
+    "dep_name": "機電系光機電整合"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBAM",
+    "dep_name": "機電系碩班光機電"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBBB",
+    "dep_name": "機電系精密機械組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBBM",
+    "dep_name": "機電系碩班精機"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBXD",
+    "dep_name": "機電系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBXM",
+    "dep_name": "機電系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECAB",
+    "dep_name": "土木系工設組－日"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECBB",
+    "dep_name": "土木系營企組－日"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECXD",
+    "dep_name": "土木系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECXM",
+    "dep_name": "土木系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXB",
+    "dep_name": "化材系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXD",
+    "dep_name": "化材系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXM",
+    "dep_name": "化材系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIAM",
+    "dep_name": "資工系資網所"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIBM",
+    "dep_name": "資工系英語碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXB",
+    "dep_name": "資工系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXD",
+    "dep_name": "資工系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXE",
+    "dep_name": "資工系（進學）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXJ",
+    "dep_name": "資工系碩專班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXM",
+    "dep_name": "資工系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TENXB",
+    "dep_name": "航太系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TENXM",
+    "dep_name": "航太系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETAB",
+    "dep_name": "電機系電資（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETBB",
+    "dep_name": "電機系電通（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETBM",
+    "dep_name": "電機系碩士班電路"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETCB",
+    "dep_name": "電機系電機（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETDM",
+    "dep_name": "電機系碩士班控制"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETEM",
+    "dep_name": "電機系機器人碩士"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETGM",
+    "dep_name": "電機系碩士班通訊"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXD",
+    "dep_name": "電機系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXE",
+    "dep_name": "電機系（進學）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXJ",
+    "dep_name": "電機系碩專班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWAB",
+    "dep_name": "水環系水資源組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWBB",
+    "dep_name": "水環系環工組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWXD",
+    "dep_name": "水環系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWXM",
+    "dep_name": "水環系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "C05",
+    "dep_name": "商管學院共同科目"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXB",
+    "dep_name": "會計系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXE",
+    "dep_name": "會計系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXJ",
+    "dep_name": "會計系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXM",
+    "dep_name": "會計系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXB",
+    "dep_name": "財金系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXD",
+    "dep_name": "財金系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXE",
+    "dep_name": "財金系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXJ",
+    "dep_name": "財金系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXM",
+    "dep_name": "財金系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXB",
+    "dep_name": "企管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXE",
+    "dep_name": "企管系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXJ",
+    "dep_name": "企管系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXM",
+    "dep_name": "企管系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXB",
+    "dep_name": "產經系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXD",
+    "dep_name": "產經系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXM",
+    "dep_name": "產經系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFAJ",
+    "dep_name": "國企系國行碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXB",
+    "dep_name": "國企系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXE",
+    "dep_name": "國企系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXJ",
+    "dep_name": "國企系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXM",
+    "dep_name": "國企系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXB",
+    "dep_name": "管科系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXD",
+    "dep_name": "管科系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXJ",
+    "dep_name": "管科系企經碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXM",
+    "dep_name": "管科系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXB",
+    "dep_name": "保險系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXJ",
+    "dep_name": "保險系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXM",
+    "dep_name": "保險系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLLXJ",
+    "dep_name": "華商經管數位碩專"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXB",
+    "dep_name": "資管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXJ",
+    "dep_name": "資管系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXM",
+    "dep_name": "資管系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXB",
+    "dep_name": "公行系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXE",
+    "dep_name": "公行系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXJ",
+    "dep_name": "公行系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXM",
+    "dep_name": "公行系政策碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXB",
+    "dep_name": "統計系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXE",
+    "dep_name": "統計系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXM",
+    "dep_name": "統計系應統碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLTXB",
+    "dep_name": "運管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLTXM",
+    "dep_name": "運管系運科碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLYXB",
+    "dep_name": "經濟系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLYXM",
+    "dep_name": "經濟系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "C07",
+    "dep_name": "外語學院共同科目"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFFXB",
+    "dep_name": "法文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFFXM",
+    "dep_name": "法文系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFGXB",
+    "dep_name": "德文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJFB",
+    "dep_name": "日文系（留學班）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJFK",
+    "dep_name": "日文在職〈留學〉"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXB",
+    "dep_name": "日文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXE",
+    "dep_name": "日文系（進學）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXJ",
+    "dep_name": "日文系碩專班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXK",
+    "dep_name": "日文系在職專班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXM",
+    "dep_name": "日文系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXB",
+    "dep_name": "英文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXD",
+    "dep_name": "英文系博士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXE",
+    "dep_name": "英文系（進學）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXM",
+    "dep_name": "英文學系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFSXB",
+    "dep_name": "西語系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFSXM",
+    "dep_name": "西語系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFUXB",
+    "dep_name": "俄文系（日）"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "C09",
+    "dep_name": "國際研究院共同科目"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIBXM",
+    "dep_name": "東南亞所碩士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICAM",
+    "dep_name": "大陸所碩士班文教"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICBM",
+    "dep_name": "大陸所碩士班經貿"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICXJ",
+    "dep_name": "大陸所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEAM",
+    "dep_name": "歐研所歐盟組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEBM",
+    "dep_name": "歐研所俄研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEXD",
+    "dep_name": "歐洲所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFAM",
+    "dep_name": "美洲所美研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFBM",
+    "dep_name": "美洲所拉研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFXD",
+    "dep_name": "美洲所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIAM",
+    "dep_name": "亞洲所日本組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIBM",
+    "dep_name": "亞洲所東南亞組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIICJ",
+    "dep_name": "亞洲所數位碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIXJ",
+    "dep_name": "亞洲所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIPXM",
+    "dep_name": "臺灣亞太碩士學程"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXD",
+    "dep_name": "戰略所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXJ",
+    "dep_name": "戰略所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXM",
+    "dep_name": "戰略所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "C10",
+    "dep_name": "教育學院共同科目"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDCXM",
+    "dep_name": "教心所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDDXM",
+    "dep_name": "未來學所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDIXJ",
+    "dep_name": "課程所碩士專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDIXM",
+    "dep_name": "課程所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPAM",
+    "dep_name": "教政所教管組"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPBM",
+    "dep_name": "教政所高教組"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPXJ",
+    "dep_name": "教政所碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPXM",
+    "dep_name": "教政所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDQBB",
+    "dep_name": "中學教育學程"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTAJ",
+    "dep_name": "教科系數位碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXB",
+    "dep_name": "教科系（日）"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXJ",
+    "dep_name": "教科系碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXM",
+    "dep_name": "教科系碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDXXD",
+    "dep_name": "教管博士班"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQAXB",
+    "dep_name": "語言系（日）"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQGXB",
+    "dep_name": "政經系（日）"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQIAB",
+    "dep_name": "資創系軟工組－日"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQIBB",
+    "dep_name": "資創系應資組－日"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQVXB",
+    "dep_name": "觀光系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "C02",
+    "dep_name": "文學院共同科目"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABAJ",
+    "dep_name": "資圖系數位碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABXB",
+    "dep_name": "資圖系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABXM",
+    "dep_name": "資圖系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACAM",
+    "dep_name": "中研所文學組"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACBM",
+    "dep_name": "中研所語言文化組"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXB",
+    "dep_name": "中文系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXD",
+    "dep_name": "中文系博士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXE",
+    "dep_name": "中文系（進學）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXJ",
+    "dep_name": "中文系碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXM",
+    "dep_name": "中文系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TADXM",
+    "dep_name": "語獻所碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXB",
+    "dep_name": "歷史系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXJ",
+    "dep_name": "歷史系碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXM",
+    "dep_name": "歷史系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAIXB",
+    "dep_name": "資傳系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAIXM",
+    "dep_name": "資傳系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAMXB",
+    "dep_name": "大傳系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAMXM",
+    "dep_name": "大傳系傳播碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "C03",
+    "dep_name": "理學院共同科目"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSBXB",
+    "dep_name": "理學院學士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCAM",
+    "dep_name": "化學所化學組"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCCB",
+    "dep_name": "化學系生化組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCCM",
+    "dep_name": "化學所生物組"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCDB",
+    "dep_name": "化學系材化組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCXD",
+    "dep_name": "化學系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMAB",
+    "dep_name": "數學系數學組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMCB",
+    "dep_name": "數學系資統組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXD",
+    "dep_name": "數學系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXJ",
+    "dep_name": "數學教學碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXM",
+    "dep_name": "數學系碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPBB",
+    "dep_name": "物理系應物組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPCB",
+    "dep_name": "物理系光電組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPXD",
+    "dep_name": "物理系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPXM",
+    "dep_name": "物理系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "C04",
+    "dep_name": "工學院共同科目"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEAXB",
+    "dep_name": "建築系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEAXM",
+    "dep_name": "建築系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBAB",
+    "dep_name": "機電系光機電整合"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBAM",
+    "dep_name": "機電系碩班光機電"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBBB",
+    "dep_name": "機電系精密機械組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBBM",
+    "dep_name": "機電系碩班精機"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBXD",
+    "dep_name": "機電系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBXM",
+    "dep_name": "機電系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECAB",
+    "dep_name": "土木系工設組－日"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECBB",
+    "dep_name": "土木系營企組－日"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECXD",
+    "dep_name": "土木系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECXM",
+    "dep_name": "土木系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXB",
+    "dep_name": "化材系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXD",
+    "dep_name": "化材系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXM",
+    "dep_name": "化材系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIAM",
+    "dep_name": "資工系資網所"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIBM",
+    "dep_name": "資工系英語碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXB",
+    "dep_name": "資工系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXD",
+    "dep_name": "資工系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXE",
+    "dep_name": "資工系（進學）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXJ",
+    "dep_name": "資工系碩專班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXM",
+    "dep_name": "資工系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TENXB",
+    "dep_name": "航太系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TENXM",
+    "dep_name": "航太系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETAB",
+    "dep_name": "電機系電資（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETBB",
+    "dep_name": "電機系電通（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETBM",
+    "dep_name": "電機系碩士班電路"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETCB",
+    "dep_name": "電機系電機（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETDM",
+    "dep_name": "電機系碩士班控制"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETEM",
+    "dep_name": "電機系機器人碩士"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETGM",
+    "dep_name": "電機系碩士班通訊"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXD",
+    "dep_name": "電機系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXE",
+    "dep_name": "電機系（進學）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXJ",
+    "dep_name": "電機系碩專班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWAB",
+    "dep_name": "水環系水資源組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWBB",
+    "dep_name": "水環系環工組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWXD",
+    "dep_name": "水環系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWXM",
+    "dep_name": "水環系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "C05",
+    "dep_name": "商管學院共同科目"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXB",
+    "dep_name": "會計系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXE",
+    "dep_name": "會計系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXJ",
+    "dep_name": "會計系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXM",
+    "dep_name": "會計系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXB",
+    "dep_name": "財金系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXD",
+    "dep_name": "財金系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXE",
+    "dep_name": "財金系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXJ",
+    "dep_name": "財金系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXM",
+    "dep_name": "財金系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXB",
+    "dep_name": "企管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXE",
+    "dep_name": "企管系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXJ",
+    "dep_name": "企管系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXM",
+    "dep_name": "企管系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXB",
+    "dep_name": "產經系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXD",
+    "dep_name": "產經系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXM",
+    "dep_name": "產經系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFAJ",
+    "dep_name": "國企系國行碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXB",
+    "dep_name": "國企系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXE",
+    "dep_name": "國企系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXJ",
+    "dep_name": "國企系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXM",
+    "dep_name": "國企系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXB",
+    "dep_name": "管科系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXD",
+    "dep_name": "管科系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXJ",
+    "dep_name": "管科系企經碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXM",
+    "dep_name": "管科系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXB",
+    "dep_name": "保險系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXJ",
+    "dep_name": "保險系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXM",
+    "dep_name": "保險系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLLXJ",
+    "dep_name": "華商經管數位碩專"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXB",
+    "dep_name": "資管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXJ",
+    "dep_name": "資管系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXM",
+    "dep_name": "資管系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXB",
+    "dep_name": "公行系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXE",
+    "dep_name": "公行系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXJ",
+    "dep_name": "公行系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXM",
+    "dep_name": "公行系政策碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXB",
+    "dep_name": "統計系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXE",
+    "dep_name": "統計系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXM",
+    "dep_name": "統計系應統碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLTXB",
+    "dep_name": "運管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLTXM",
+    "dep_name": "運管系運科碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLYXB",
+    "dep_name": "經濟系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLYXM",
+    "dep_name": "經濟系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "C07",
+    "dep_name": "外語學院共同科目"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFFXB",
+    "dep_name": "法文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFFXM",
+    "dep_name": "法文系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFGXB",
+    "dep_name": "德文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJFB",
+    "dep_name": "日文系（留學班）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJFK",
+    "dep_name": "日文在職〈留學〉"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXB",
+    "dep_name": "日文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXE",
+    "dep_name": "日文系（進學）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXJ",
+    "dep_name": "日文系碩專班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXK",
+    "dep_name": "日文系在職專班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXM",
+    "dep_name": "日文系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXB",
+    "dep_name": "英文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXD",
+    "dep_name": "英文系博士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXE",
+    "dep_name": "英文系（進學）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXM",
+    "dep_name": "英文學系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFSXB",
+    "dep_name": "西語系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFSXM",
+    "dep_name": "西語系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFUXB",
+    "dep_name": "俄文系（日）"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "C09",
+    "dep_name": "國際研究院共同科目"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIBXM",
+    "dep_name": "東南亞所碩士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICAM",
+    "dep_name": "大陸所碩士班文教"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICBM",
+    "dep_name": "大陸所碩士班經貿"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICXJ",
+    "dep_name": "大陸所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEAM",
+    "dep_name": "歐研所歐盟組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEBM",
+    "dep_name": "歐研所俄研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEXD",
+    "dep_name": "歐洲所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFAM",
+    "dep_name": "美洲所美研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFBM",
+    "dep_name": "美洲所拉研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFXD",
+    "dep_name": "美洲所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIAM",
+    "dep_name": "亞洲所日本組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIBM",
+    "dep_name": "亞洲所東南亞組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIICJ",
+    "dep_name": "亞洲所數位碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIXJ",
+    "dep_name": "亞洲所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIPXM",
+    "dep_name": "臺灣亞太碩士學程"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXD",
+    "dep_name": "戰略所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXJ",
+    "dep_name": "戰略所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXM",
+    "dep_name": "戰略所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "C10",
+    "dep_name": "教育學院共同科目"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDCXM",
+    "dep_name": "教心所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDDXM",
+    "dep_name": "未來學所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDIXJ",
+    "dep_name": "課程所碩士專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDIXM",
+    "dep_name": "課程所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPAM",
+    "dep_name": "教政所教管組"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPBM",
+    "dep_name": "教政所高教組"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPXJ",
+    "dep_name": "教政所碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPXM",
+    "dep_name": "教政所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDQBB",
+    "dep_name": "中學教育學程"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTAJ",
+    "dep_name": "教科系數位碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXB",
+    "dep_name": "教科系（日）"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXJ",
+    "dep_name": "教科系碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXM",
+    "dep_name": "教科系碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDXXD",
+    "dep_name": "教管博士班"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQAXB",
+    "dep_name": "語言系（日）"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQGXB",
+    "dep_name": "政經系（日）"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQIAB",
+    "dep_name": "資創系軟工組－日"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQIBB",
+    "dep_name": "資創系應資組－日"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQVXB",
+    "dep_name": "觀光系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "C02",
+    "dep_name": "文學院共同科目"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABAJ",
+    "dep_name": "資圖系數位碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABXB",
+    "dep_name": "資圖系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TABXM",
+    "dep_name": "資圖系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACAM",
+    "dep_name": "中研所文學組"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACBM",
+    "dep_name": "中研所語言文化組"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXB",
+    "dep_name": "中文系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXD",
+    "dep_name": "中文系博士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXE",
+    "dep_name": "中文系（進學）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXJ",
+    "dep_name": "中文系碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TACXM",
+    "dep_name": "中文系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TADXM",
+    "dep_name": "語獻所碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXB",
+    "dep_name": "歷史系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXJ",
+    "dep_name": "歷史系碩專班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAHXM",
+    "dep_name": "歷史系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAIXB",
+    "dep_name": "資傳系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAIXM",
+    "dep_name": "資傳系碩士班"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAMXB",
+    "dep_name": "大傳系（日）"
+  },
+  {
+    "deps": "TA",
+    "deps_name": "文學院",
+    "dep": "TAMXM",
+    "dep_name": "大傳系傳播碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "C03",
+    "dep_name": "理學院共同科目"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSBXB",
+    "dep_name": "理學院學士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCAM",
+    "dep_name": "化學所化學組"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCCB",
+    "dep_name": "化學系生化組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCCM",
+    "dep_name": "化學所生物組"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCDB",
+    "dep_name": "化學系材化組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSCXD",
+    "dep_name": "化學系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMAB",
+    "dep_name": "數學系數學組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMCB",
+    "dep_name": "數學系資統組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXD",
+    "dep_name": "數學系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXJ",
+    "dep_name": "數學教學碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSMXM",
+    "dep_name": "數學系碩士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPBB",
+    "dep_name": "物理系應物組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPCB",
+    "dep_name": "物理系光電組－日"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPXD",
+    "dep_name": "物理系博士班"
+  },
+  {
+    "deps": "TS",
+    "deps_name": "理學院",
+    "dep": "TSPXM",
+    "dep_name": "物理系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "C04",
+    "dep_name": "工學院共同科目"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEAXB",
+    "dep_name": "建築系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEAXM",
+    "dep_name": "建築系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBAB",
+    "dep_name": "機電系光機電整合"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBAM",
+    "dep_name": "機電系碩班光機電"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBBB",
+    "dep_name": "機電系精密機械組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBBM",
+    "dep_name": "機電系碩班精機"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBXD",
+    "dep_name": "機電系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEBXM",
+    "dep_name": "機電系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECAB",
+    "dep_name": "土木系工設組－日"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECBB",
+    "dep_name": "土木系營企組－日"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECXD",
+    "dep_name": "土木系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TECXM",
+    "dep_name": "土木系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXB",
+    "dep_name": "化材系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXD",
+    "dep_name": "化材系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEDXM",
+    "dep_name": "化材系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIAM",
+    "dep_name": "資工系資網所"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIBM",
+    "dep_name": "資工系英語碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXB",
+    "dep_name": "資工系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXD",
+    "dep_name": "資工系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXE",
+    "dep_name": "資工系（進學）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXJ",
+    "dep_name": "資工系碩專班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEIXM",
+    "dep_name": "資工系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TENXB",
+    "dep_name": "航太系（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TENXM",
+    "dep_name": "航太系碩士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETAB",
+    "dep_name": "電機系電資（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETBB",
+    "dep_name": "電機系電通（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETBM",
+    "dep_name": "電機系碩士班電路"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETCB",
+    "dep_name": "電機系電機（日）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETDM",
+    "dep_name": "電機系碩士班控制"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETEM",
+    "dep_name": "電機系機器人碩士"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETGM",
+    "dep_name": "電機系碩士班通訊"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXD",
+    "dep_name": "電機系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXE",
+    "dep_name": "電機系（進學）"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TETXJ",
+    "dep_name": "電機系碩專班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWAB",
+    "dep_name": "水環系水資源組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWBB",
+    "dep_name": "水環系環工組"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWXD",
+    "dep_name": "水環系博士班"
+  },
+  {
+    "deps": "TE",
+    "deps_name": "工學院",
+    "dep": "TEWXM",
+    "dep_name": "水環系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "C05",
+    "dep_name": "商管學院共同科目"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXB",
+    "dep_name": "會計系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXE",
+    "dep_name": "會計系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXJ",
+    "dep_name": "會計系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLAXM",
+    "dep_name": "會計系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXB",
+    "dep_name": "財金系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXD",
+    "dep_name": "財金系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXE",
+    "dep_name": "財金系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXJ",
+    "dep_name": "財金系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLBXM",
+    "dep_name": "財金系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXB",
+    "dep_name": "企管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXE",
+    "dep_name": "企管系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXJ",
+    "dep_name": "企管系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLCXM",
+    "dep_name": "企管系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXB",
+    "dep_name": "產經系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXD",
+    "dep_name": "產經系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLEXM",
+    "dep_name": "產經系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFAJ",
+    "dep_name": "國企系國行碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXB",
+    "dep_name": "國企系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXE",
+    "dep_name": "國企系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXJ",
+    "dep_name": "國企系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLFXM",
+    "dep_name": "國企系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXB",
+    "dep_name": "管科系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXD",
+    "dep_name": "管科系博士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXJ",
+    "dep_name": "管科系企經碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLGXM",
+    "dep_name": "管科系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXB",
+    "dep_name": "保險系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXJ",
+    "dep_name": "保險系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLIXM",
+    "dep_name": "保險系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLLXJ",
+    "dep_name": "華商經管數位碩專"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXB",
+    "dep_name": "資管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXJ",
+    "dep_name": "資管系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLMXM",
+    "dep_name": "資管系碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXB",
+    "dep_name": "公行系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXE",
+    "dep_name": "公行系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXJ",
+    "dep_name": "公行系碩專班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLPXM",
+    "dep_name": "公行系政策碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXB",
+    "dep_name": "統計系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXE",
+    "dep_name": "統計系（進學）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLSXM",
+    "dep_name": "統計系應統碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLTXB",
+    "dep_name": "運管系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLTXM",
+    "dep_name": "運管系運科碩士班"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLYXB",
+    "dep_name": "經濟系（日）"
+  },
+  {
+    "deps": "TL",
+    "deps_name": "商管學院",
+    "dep": "TLYXM",
+    "dep_name": "經濟系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "C07",
+    "dep_name": "外語學院共同科目"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFFXB",
+    "dep_name": "法文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFFXM",
+    "dep_name": "法文系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFGXB",
+    "dep_name": "德文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJFB",
+    "dep_name": "日文系（留學班）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJFK",
+    "dep_name": "日文在職〈留學〉"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXB",
+    "dep_name": "日文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXE",
+    "dep_name": "日文系（進學）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXJ",
+    "dep_name": "日文系碩專班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXK",
+    "dep_name": "日文系在職專班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFJXM",
+    "dep_name": "日文系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXB",
+    "dep_name": "英文系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXD",
+    "dep_name": "英文系博士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXE",
+    "dep_name": "英文系（進學）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFLXM",
+    "dep_name": "英文學系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFSXB",
+    "dep_name": "西語系（日）"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFSXM",
+    "dep_name": "西語系碩士班"
+  },
+  {
+    "deps": "TF",
+    "deps_name": "外語學院",
+    "dep": "TFUXB",
+    "dep_name": "俄文系（日）"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "C09",
+    "dep_name": "國際研究院共同科目"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIBXM",
+    "dep_name": "東南亞所碩士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICAM",
+    "dep_name": "大陸所碩士班文教"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICBM",
+    "dep_name": "大陸所碩士班經貿"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TICXJ",
+    "dep_name": "大陸所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEAM",
+    "dep_name": "歐研所歐盟組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEBM",
+    "dep_name": "歐研所俄研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIEXD",
+    "dep_name": "歐洲所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFAM",
+    "dep_name": "美洲所美研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFBM",
+    "dep_name": "美洲所拉研組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIFXD",
+    "dep_name": "美洲所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIAM",
+    "dep_name": "亞洲所日本組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIBM",
+    "dep_name": "亞洲所東南亞組"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIICJ",
+    "dep_name": "亞洲所數位碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIIXJ",
+    "dep_name": "亞洲所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TIPXM",
+    "dep_name": "臺灣亞太碩士學程"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXD",
+    "dep_name": "戰略所博士班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXJ",
+    "dep_name": "戰略所碩專班"
+  },
+  {
+    "deps": "TI",
+    "deps_name": "國際研究學院",
+    "dep": "TITXM",
+    "dep_name": "戰略所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "C10",
+    "dep_name": "教育學院共同科目"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDCXM",
+    "dep_name": "教心所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDDXM",
+    "dep_name": "未來學所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDIXJ",
+    "dep_name": "課程所碩士專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDIXM",
+    "dep_name": "課程所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPAM",
+    "dep_name": "教政所教管組"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPBM",
+    "dep_name": "教政所高教組"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPXJ",
+    "dep_name": "教政所碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDPXM",
+    "dep_name": "教政所碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDQBB",
+    "dep_name": "中學教育學程"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTAJ",
+    "dep_name": "教科系數位碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXB",
+    "dep_name": "教科系（日）"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXJ",
+    "dep_name": "教科系碩專班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDTXM",
+    "dep_name": "教科系碩士班"
+  },
+  {
+    "deps": "TD",
+    "deps_name": "教育學院",
+    "dep": "TDXXD",
+    "dep_name": "教管博士班"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQAXB",
+    "dep_name": "語言系（日）"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQGXB",
+    "dep_name": "政經系（日）"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQIAB",
+    "dep_name": "資創系軟工組－日"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQIBB",
+    "dep_name": "資創系應資組－日"
+  },
+  {
+    "deps": "TQ",
+    "deps_name": "全球發展學院",
+    "dep": "TQVXB",
+    "dep_name": "觀光系（日）"
+  }
+]
