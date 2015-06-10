@@ -6,8 +6,6 @@ require 'pry'
 require 'capybara'
 require 'capybara/poltergeist'
 
-require_relative './rar_file.rb'
-
 class TkuCourseCrawler
   include CrawlerRocks::DSL
   include Capybara::DSL
