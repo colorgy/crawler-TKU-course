@@ -220,5 +220,5 @@ class TkuCourseCrawler
   end
 end
 
-cc = TkuCourseCrawler.new()
-File.write('tku_courses.json', JSON.pretty_generate(cc.courses))
+# cc = TkuCourseCrawler.new
+# File.write('tku_courses.json', JSON.pretty_generate(cc.courses))
