@@ -131,7 +131,10 @@ class TkuCourseCrawler
           end
 
           code = datas[3] && datas[3].text.strip.gsub(/\u3000/, '')
-          code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
+          class_code = datas[6] && datas[6].text.strip.gsub(/\u3000/, '')
+          group_code = datas[7] && datas[7].text.strip.gsub(/\u3000/, '')
+          # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
+          code = "#{@year}-#{@term}-#{code}-#{class_code}-#{group_code}-#{department_code}"
 
           lecturer = ""
           if datas[13].nil?
@@ -211,6 +214,118 @@ class TkuCourseCrawler
     @courses
   end
 
+  def parse_from_local
+    @courses = []
+
+    Dir.glob('1031/*.htm').each do |filename|
+      doc = Nokogiri::HTML(@ic.iconv(File.read(filename)))
+
+      @year = doc.css('big').text.scan(/\d+/)[0].to_i + 1911
+      @term = doc.css('big').text.scan(/\d+/)[1].to_i
+
+      course_rows = doc.xpath('//table[@bordercolorlight="#0080FF"]/tr')
+      title_rows = course_rows.select{|row| row.text.include?('系別(Department)')}
+
+      (0..title_rows.count-2).each do |title_row_index|
+        _start = course_rows.index(title_rows[title_row_index]) + 3
+        _end = course_rows.index(title_rows[title_row_index+1]) - 1
+
+        title_row = title_rows[title_row_index]
+
+        dep_regex = /系別\(Department\)\：(?<dep_c>.+)\.(?<dep_n>.+)\u3000/
+        department = nil; department_code = nil;
+        title_row.text.match(dep_regex) do |m|
+          department_code = m[:dep_c]
+          department = m[:dep_n]
+        end
+
+        (_start.._end).each do |course_row_index|
+          course_row = course_rows[course_row_index]
+          datas = course_row.css('td')
+
+          next_course_row = course_rows[course_row_index+1]
+
+          # begin
+          #   serial_no = datas[1] && datas[1].text.to_i.to_s.rjust(4, '0')
+          #   if datas[1].text == "(正課)　"
+          #     serial_no = (next_course_row.css('td')[1].text.to_i - 1).to_s.rjust(4, '0')
+          #   end
+          # rescue
+          #   binding.pry
+          #   # puts 'hello'
+          # end
+
+          code = datas[2] && datas[2].text.strip.gsub(/\u3000/, '')
+          class_code = datas[5] && datas[5].text.strip.gsub(/\u3000/, '')
+          group_code = datas[6] && datas[6].text.strip.gsub(/\u3000/, '')
+          # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
+          code = "#{@year}-#{@term}-#{code}-#{class_code}-#{group_code}-#{department_code}"
+
+          lecturer = ""
+          if datas[12].nil?
+            binding.pry
+          end
+          datas[12] && datas[12].text.match(/(?<lec>.+)?\ \([\d|\*]+\)/) do |m|
+            lecturer = m[:lec]
+          end
+
+          course_days = []
+          course_periods = []
+          course_locations = []
+          datas[13..14].each do |time_loc_col|
+            t_raws = time_loc_col.text.split('/').map{|tt| tt.strip}
+            t_raws[1] && t_raws[1].split(',').each do |p|
+              course_days << DAYS[t_raws[0]]
+              course_periods << p.to_i
+              course_locations << t_raws[2].gsub(/\u3000/, ' ').gsub(/\s+/, ' ')
+            end
+          end
+
+          @courses << {
+            year: @year,
+            term: @term,
+            code: code,
+            # preserve notes for notes
+            name: datas[10] && datas[10].text.gsub(/\u3000/, ' ').strip,
+            lecturer: lecturer,
+            department: department,
+            department_code: department_code,
+            required: datas[7] && datas[7].text.include?('必'),
+            credits: datas[8] && datas[8].text.to_i,
+            day_1: course_days[0],
+            day_2: course_days[1],
+            day_3: course_days[2],
+            day_4: course_days[3],
+            day_5: course_days[4],
+            day_6: course_days[5],
+            day_7: course_days[6],
+            day_8: course_days[7],
+            day_9: course_days[8],
+            period_1: course_periods[0],
+            period_2: course_periods[1],
+            period_3: course_periods[2],
+            period_4: course_periods[3],
+            period_5: course_periods[4],
+            period_6: course_periods[5],
+            period_7: course_periods[6],
+            period_8: course_periods[7],
+            period_9: course_periods[8],
+            location_1: course_locations[0],
+            location_2: course_locations[1],
+            location_3: course_locations[2],
+            location_4: course_locations[3],
+            location_5: course_locations[4],
+            location_6: course_locations[5],
+            location_7: course_locations[6],
+            location_8: course_locations[7],
+            location_9: course_locations[8],
+          }
+        end
+      end
+    end
+    @courses
+  end
+
   def current_year
     (Time.now.month.between?(1, 7) ? Time.now.year - 1 : Time.now.year)
   end
@@ -222,3 +337,6 @@ end
 
 # cc = TkuCourseCrawler.new
 # File.write('tku_courses.json', JSON.pretty_generate(cc.courses))
+
+# cc = TkuCourseCrawler.new
+# File.write('1031_tku_courses.json', JSON.pretty_generate(cc.parse_from_local))
