@@ -40,8 +40,8 @@ class TkuCourseCrawler
       Capybara::Poltergeist::Driver.new(app,  js_errors: false)
     end
 
-    Capybara.javascript_driver = :selenium
-    Capybara.current_driver = :selenium
+    Capybara.javascript_driver = :poltergeist
+    Capybara.current_driver = :poltergeist
   end
 
   def courses
@@ -134,8 +134,8 @@ class TkuCourseCrawler
           class_code = datas[6] && datas[6].text.strip.gsub(/\u3000/, '')
           group_code = datas[7] && datas[7].text.strip.gsub(/\u3000/, '')
 	  class_group_code = datas[10] && datas[10].text.strip.gsub(/\u3000/, '')
-          # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
-          code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{class_code}-#{group_code}-#{department_code}"
+          # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{class_code}-#{group_code}-#{department_code}"
+          code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
 
           lecturer = ""
           if datas[13].nil?
@@ -161,6 +161,7 @@ class TkuCourseCrawler
           @courses << {
             year: @year,
             term: @term,
+            code: code,
             serial_no: serial_no,
             class_code: class_code,
             group_code: group_code,
@@ -339,8 +340,8 @@ class TkuCourseCrawler
   end
 end
 
-cc = TkuCourseCrawler.new
-File.write('tku_courses.json', JSON.pretty_generate(cc.courses))
+# cc = TkuCourseCrawler.new
+# File.write('tku_courses.json', JSON.pretty_generate(cc.courses))
 
-cc = TkuCourseCrawler.new
-File.write('1031_tku_courses.json', JSON.pretty_generate(cc.parse_from_local))
+# cc = TkuCourseCrawler.new
+# File.write('1031_tku_courses.json', JSON.pretty_generate(cc.parse_from_local))
