@@ -3,3 +3,5 @@ deprecated
 !post_datas.json
 !department.json
 temp
+tmp
+.env

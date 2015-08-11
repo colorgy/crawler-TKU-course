@@ -133,9 +133,11 @@ class TkuCourseCrawler
           code = datas[3] && datas[3].text.strip.gsub(/\u3000/, '')
           class_code = datas[6] && datas[6].text.strip.gsub(/\u3000/, '')
           group_code = datas[7] && datas[7].text.strip.gsub(/\u3000/, '')
-	  class_group_code = datas[10] && datas[10].text.strip.gsub(/\u3000/, '')
+	        class_group_code = datas[10] && datas[10].text.strip.gsub(/\u3000/, '')
           # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{class_code}-#{group_code}-#{department_code}"
-          code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
+          # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
+          code = "#{@year}-#{@term}-#{code}-#{class_code}-#{group_code}-#{department_code}"
+
 
           lecturer = ""
           if datas[13].nil?
@@ -222,7 +224,7 @@ class TkuCourseCrawler
   def parse_from_local
     @courses = []
 
-    Dir.glob('1031/*.htm').each do |filename|
+    Dir.glob('tmp/1041/*.htm').each do |filename|
       doc = Nokogiri::HTML(@ic.iconv(File.read(filename)))
 
       @year = doc.css('big').text.scan(/\d+/)[0].to_i + 1911
@@ -260,11 +262,11 @@ class TkuCourseCrawler
           #   # puts 'hello'
           # end
 
-          code = datas[2] && datas[2].text.strip.gsub(/\u3000/, '')
+          general_code = datas[2] && datas[2].text.strip.gsub(/\u3000/, '')
           class_code = datas[5] && datas[5].text.strip.gsub(/\u3000/, '')
           group_code = datas[6] && datas[6].text.strip.gsub(/\u3000/, '')
           # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
-          code = "#{@year}-#{@term}-#{code}-#{class_code}-#{group_code}-#{department_code}"
+          code = "#{@year}-#{@term}-#{general_code}-#{class_code}-#{group_code}-#{department_code}"
 
           lecturer = ""
           if datas[12].nil?
@@ -290,6 +292,7 @@ class TkuCourseCrawler
             year: @year,
             term: @term,
             code: code,
+            general_code: general_code,
             # preserve notes for notes
             name: datas[10] && datas[10].text.gsub(/\u3000/, ' ').strip,
             lecturer: lecturer,
@@ -325,9 +328,22 @@ class TkuCourseCrawler
             location_8: course_locations[7],
             location_9: course_locations[8],
           }
+
         end
       end
     end
+
+    @courses.uniq!
+    @threads = []
+    @courses.each do |course|
+      sleep(1) until (
+        @threads.delete_if { |t| !t.status };  # remove dead (ended) threads
+        @threads.count < ( (ENV['MAX_THREADS'] && ENV['MAX_THREADS'].to_i) || 20)
+      )
+      @after_each_proc.call(course: course) if @after_each_proc
+    end
+    ThreadsWait.all_waits(*@threads)
+
     @courses
   end
 
@@ -344,4 +360,4 @@ end
 # File.write('tku_courses.json', JSON.pretty_generate(cc.courses))
 
 # cc = TkuCourseCrawler.new
-# File.write('1031_tku_courses.json', JSON.pretty_generate(cc.parse_from_local))
+# File.write('1041_tku_courses.json', JSON.pretty_generate(cc.parse_from_local))
