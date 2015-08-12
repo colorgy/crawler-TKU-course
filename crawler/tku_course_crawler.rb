@@ -130,13 +130,15 @@ class TkuCourseCrawler
             puts 'hello'
           end
 
-          code = datas[3] && datas[3].text.strip.gsub(/\u3000/, '')
+          # code = datas[3] && datas[3].text.strip.gsub(/\u3000/, '')
+          general_code = datas[3] && datas[3].text.strip.gsub(/\u3000/, '')
           class_code = datas[6] && datas[6].text.strip.gsub(/\u3000/, '')
           group_code = datas[7] && datas[7].text.strip.gsub(/\u3000/, '')
 	        class_group_code = datas[10] && datas[10].text.strip.gsub(/\u3000/, '')
           # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{class_code}-#{group_code}-#{department_code}"
           # code = "#{@year}-#{@term}-#{code}-#{serial_no}-#{department_code}"
-          code = "#{@year}-#{@term}-#{code}-#{class_code}-#{group_code}-#{department_code}"
+          # code = "#{@year}-#{@term}-#{code}-#{class_code}-#{group_code}-#{department_code}"
+          code = "#{@year}-#{@term}-#{general_code}-#{class_code}-#{group_code}-#{department_code}"
 
 
           lecturer = ""
@@ -168,6 +170,7 @@ class TkuCourseCrawler
             class_code: class_code,
             group_code: group_code,
             class_group_code: class_group_code,
+            general_code: general_code,
             # preserve notes for notes
             name: datas[11] && datas[11].text.gsub(/\u3000/, ' ').strip,
             lecturer: lecturer,
